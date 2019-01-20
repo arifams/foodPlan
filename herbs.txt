@@ -1,0 +1,1 @@
+['fish_sauce', 'tamari', 'vinegar']
