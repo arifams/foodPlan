@@ -1,1 +1,1 @@
-['fish_sauce', 'tamari', 'vinegar']
+['G', 'jgj', 'J""', 'uH', 'hI', '"', 'HOI']

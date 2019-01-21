@@ -1,1 +1,1 @@
-['Chicken', 'meat', 'tofu']
+['-JH', 'hJK', 'jh']
